@@ -63,7 +63,7 @@ Follow these steps to get the project up and running on your local machine:
 
 ### 2. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Harsh-Raj-Jordan/Cable-Gram.git
 cd Cable-Gram
 ```
 
