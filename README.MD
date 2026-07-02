@@ -4,17 +4,17 @@
 
 ---
 
-## 🌟 Project Overview (STAR Method)
+## Project Overview
 
-This project was developed with a focus on solving real-world communication challenges, demonstrating production-ready development practices, and serving as a robust portfolio piece for software engineering placements.
+This project was developed with a focus on solving real-world communication challenges.
 
-### **Situation (The Problem)**
+### **The Problem**
 In today's fast-paced digital world, delayed communication causes friction in collaboration and connectivity. Traditional HTTP-based polling mechanisms for chat applications are inefficient, resource-heavy, and lack the true "instant" feel required by modern users. There was a need for a seamless, low-latency, and secure real-time messaging platform that also supports rich media sharing.
 
-### **Task (The Objective)**
+### **The Objective**
 The goal was to architect and develop **Cable-Gram**, a full-stack real-time chat application from scratch. The application needed to support instantaneous bidirectional messaging, secure user authentication, optimized media (image) uploads, global state management, and a highly responsive, modern user interface. 
 
-### **Action (The Implementation)**
+### **The Implementation**
 To achieve a highly performant and scalable solution, I took the following actions:
 - **Real-Time Engine:** Implemented bidirectional, event-driven communication using **Socket.io** to ensure messages are delivered instantly without page reloads or constant server polling.
 - **Backend Architecture:** Built a robust RESTful API using **Node.js** and **Express**, connected to a **MongoDB** database (via Mongoose) for efficient data modeling and retrieval.
@@ -30,7 +30,7 @@ The result is a fully functional, highly optimized chat application capable of h
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React (v19) + Vite
@@ -52,7 +52,7 @@ The result is a fully functional, highly optimized chat application capable of h
 
 ---
 
-## 🚀 How to Run the Project Locally
+## How to Run the Project Locally
 
 Follow these steps to get the project up and running on your local machine:
 
