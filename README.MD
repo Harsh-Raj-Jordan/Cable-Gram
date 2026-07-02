@@ -1,4 +1,4 @@
-# Cable-Gram 💬
+# Cable-Gram
 
 *A modern, real-time full-stack chat application built for scalable, instant communication.*
 
